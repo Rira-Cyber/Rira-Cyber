@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rira-Cyber
 - 👀 I’m interested in AI coding such as ML and DL and machine vision
-- 🌱 I’m currently learning machine vision and CNN 
+- 🌱 I’m done learning machine vision and CNN 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me : my email is reyhanehghorbani2004@gmail.com
 
